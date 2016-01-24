@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Shapes", "Problem 1. Shapes\Problem 1. Shapes.csproj", "{AD9E110B-5D39-4039-93E6-B5434F7F14A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Bank accounts", "Problem 2. Bank accounts\Problem 2. Bank accounts.csproj", "{B66DD389-B666-46FE-8AF1-42F8C2B1FE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Range Excepitons", "Problem 3. Range Excepitons\Problem 3. Range Excepitons.csproj", "{2D788895-529A-4652-A0D2-3381759C05D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9E110B-5D39-4039-93E6-B5434F7F14A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9E110B-5D39-4039-93E6-B5434F7F14A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9E110B-5D39-4039-93E6-B5434F7F14A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9E110B-5D39-4039-93E6-B5434F7F14A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66DD389-B666-46FE-8AF1-42F8C2B1FE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66DD389-B666-46FE-8AF1-42F8C2B1FE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66DD389-B666-46FE-8AF1-42F8C2B1FE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66DD389-B666-46FE-8AF1-42F8C2B1FE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D788895-529A-4652-A0D2-3381759C05D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D788895-529A-4652-A0D2-3381759C05D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D788895-529A-4652-A0D2-3381759C05D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D788895-529A-4652-A0D2-3381759C05D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
